@@ -1,0 +1,26 @@
+* {
+    text-align: center;
+    line-height: 20px;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+a {
+    line-height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: brown;
+}
+
+li {
+    list-style: none;
+}
+
+body {
+    margin-left: 600px;
+    margin-right: 500px;
+}
